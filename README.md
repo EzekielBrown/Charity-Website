@@ -13,5 +13,5 @@ If you would like to be a part of Hands of Hope and start helping members of you
 Thank you for being a part of Hands of Hope and for helping to create a more connected and supportive community.
 
 ## Links
-[Report](https://docs.google.com/document/d/1W5EdFjuNpw_8sRUlICDUxSLkr3-4n3xiRfqUWaTZgBI/edit#)
+[Report](https://docs.google.com/document/d/1W5EdFjuNpw_8sRUlICDUxSLkr3-4n3xiRfqUWaTZgBI/edit#) <br>
 [CRUD Table](https://docs.google.com/spreadsheets/d/11vzRNEJc42mSuIfXco8C8A5w13q997S25flOPAIc4sE/edit#gid=0)
